@@ -9,6 +9,12 @@
 
 *It may not look the same on any phone*
 
+> [!WARNING]
+>- For student exchange and study only
+>- No sale for commercial use
+>- The software does not contain any virus
+>- If you are still worried, you can run it offline
+
 **Download** 
 
 [![Download](https://img.shields.io/github/downloads/yalnawg/files-shortcut/total?color=brightgreen&label=Download&style=flat)](https://github.com/yalnawg/files-shortcut/releases)
@@ -19,7 +25,7 @@
 
 • Marc apps & software(Original creator of Files shortcut)
 
-**Differences**
+**Modify Features**
 
 • Images shortcut added. 
 
